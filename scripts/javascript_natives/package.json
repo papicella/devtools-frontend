@@ -4,7 +4,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "typescript": "^2.8.3",
     "webidl2": "^10.3.3"
   }
